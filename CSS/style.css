@@ -1,0 +1,9 @@
+#top-section-bar {
+    background-color: lightgrey;
+    padding: 1.2%;
+    display: flex;
+}
+
+.names {
+    display: flex;
+}
